@@ -1,0 +1,32 @@
+{
+  "name": "angular2-esri4-component",
+  "version": "1.0.0",
+  "description": "An Angular 2 component to create an ESRI map in your applications using ArcGIS API for JavaScript v4.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "typings install && tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgs916/angular2-esri4-component.git"
+  },
+  "author": "Keith Stewart (kgstewart@gmail.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kgs916/angular2-esri4-component/issues"
+  },
+  "homepage": "https://github.com/kgs916/angular2-esri4-component#readme",
+  "module": "index.js",
+  "typings": "./angular2-esri4-component.d.ts",
+  "dependencies": {
+    "@angular/common": "^2.2.3",
+    "@angular/core": "^2.2.3",
+    "@angular/platform-browser": "^2.2.3",
+    "angular2-esri-loader": "^0.1.10"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^2.5.38",
+    "typescript": "^2.0.10",
+    "typings": "^2.0.0"
+  }
+}
