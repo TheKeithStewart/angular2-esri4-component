@@ -1,4 +1,4 @@
-# angular2-esri4-component
+# angular2-esri4-component (DEPRECATED - please use [angular2-esri4-components](https://www.npmjs.com/package/angular2-esri4-components) instead)
 
 An Angular 2 component to create an ESRI map in your applications using [ArcGIS API for JavaScript v4.1](https://developers.arcgis.com/javascript/)
 
